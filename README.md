@@ -1,4 +1,7 @@
 # ImageUploader
+The application is deployed. Have a look at https://imageuploaderbymukul.netlify.app/
+
+To run the application in local system, follow below mentioned steps:
 Clone the repository
 Run the following commands:
 cd assignment  
